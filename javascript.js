@@ -10,7 +10,9 @@ var quotes = [
 'you are my whole world',
 'i love doing nothing with you',
 'your laugh makes my heart warm',
-'your smile makes me smile'
+'your smile makes me smile',
+'im so lucky to be yours',
+'i want to hold you and never let go'
 ]
 
 function newQuote() {
