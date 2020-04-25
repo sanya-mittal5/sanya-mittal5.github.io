@@ -12,7 +12,9 @@ var quotes = [
 'your laugh makes my heart warm',
 'your smile makes me smile',
 'im so lucky to be yours',
-'i want to hold you and never let go'
+'i want to hold you and never let go',
+'our love is stronger than any distance',
+'you and i are meant to be'
 ]
 
 function newQuote() {
