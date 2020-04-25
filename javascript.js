@@ -5,7 +5,12 @@ var quotes = [
 'im so happy youre mine',
 'to the ends of the universe',
 'youre adorable',
-'youre cute'
+'youre cute',
+'i cant wait to spend forever with you',
+'you are my whole world',
+'i love doing nothing with you',
+'your laugh makes my heart warm',
+'your smile makes me smile'
 ]
 
 function newQuote() {
