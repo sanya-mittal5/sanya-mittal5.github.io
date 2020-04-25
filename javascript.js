@@ -2,7 +2,7 @@ var quotes = [
 'you are amazing',
 'i adore you',
 'you are beautiful',
-'im so happy youre mine',
+'im so happy you\'re mine',
 'to the ends of the universe',
 'you\'re adorable',
 'you\'re cute',
