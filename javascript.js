@@ -14,7 +14,9 @@ var quotes = [
 'im so lucky to be yours',
 'i want to hold you and never let go',
 'our love is stronger than any distance',
-'you and i are meant to be'
+'you and i are meant to be',
+'i love loving you',
+'i want to wake up next to you every day'
 ]
 
 function newQuote() {
