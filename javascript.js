@@ -21,5 +21,6 @@ var quotes = [
 
 function newQuote() {
 var randomNumber = Math.floor(Math.random() * (quotes.length));
-document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
+for (var i = quotes.length - 1; i >= 0; i++) {
+document.getElementById('quoteDisplay').innerHTML = quotes[i];
 }
