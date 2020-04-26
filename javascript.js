@@ -16,8 +16,8 @@ var quotes = [
 'our love is stronger than any distance',
 'you and i are meant to be',
 'i love loving you',
-'i want to wake up next to you every day'
-]
+'i want to wake up next to you every day',
+'you are perfect']
 
 function newQuote() {
 var randomNumber = Math.floor(Math.random() * (quotes.length));
